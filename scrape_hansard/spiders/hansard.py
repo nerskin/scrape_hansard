@@ -1,6 +1,7 @@
 import scrapy
 import re
 import urllib
+from bs4 import BeautifulSoup
 
 class QuotesSpider(scrapy.Spider):
     name = 'hansard'
@@ -13,10 +14,10 @@ class QuotesSpider(scrapy.Spider):
             new_url = i.extract()
             if re.match('^.*xml$',new_url):
                 if new_url not in self.found_urls:
-                    print('\n\n\n\n\n\n\n\n\n\n\n')
-                    yield {'url' : new_url}
                     data = urllib.request.urlopen(new_url).read().decode('utf-8')
-                    with open('hansard.xml','a+') as f:
+                    parsed_data = BeautifulSoup(data,'xml')
+                    filename = './data/'+parsed_data.find('date').contents[0] + '.xml'
+                    with open(filename,'w+') as f:
                         f.write(data)
                     self.found_urls.add(new_url)
         next_page_url = response.css('.results-pagination').css('ul').css('li.next > a::attr(href)').extract_first()
