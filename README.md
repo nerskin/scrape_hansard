@@ -15,4 +15,4 @@ Clone or download the repository, then run
 scrapy crawl hansard
 ```
 
-at the terminal from the top-level directory. The transcripts will be placed in a single file called 'hansard.xml'.
+at the terminal from the top-level directory. The transcripts will be placed in the data directory.
