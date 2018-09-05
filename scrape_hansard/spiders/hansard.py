@@ -17,8 +17,10 @@ class QuotesSpider(scrapy.Spider):
                 if new_url not in self.found_urls:
                     data = urllib.request.urlopen(new_url).read().decode('utf-8')
                     parsed_data = BeautifulSoup(data,'xml')
-                    chamber = BeautifulSoup(data).find('chamber')
-                    filename = './data/'+parsed_data.find('date').contents[0] +'-' + chamber + '-'  + '.xml'
+                    chamber = BeautifulSoup(data,'xml').find('chamber').get_text()
+                    if chamber=='House of Reps':
+                        chamber = 'HoR'
+                    filename = './data/'+parsed_data.find('date').contents[0] +'-' + chamber + '.xml'
                     with open(filename,'w+') as f:
                         f.write(data)
                     self.found_urls.add(new_url)
