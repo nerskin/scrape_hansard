@@ -1,6 +1,6 @@
 This navigates the website of the Australian parliament and downloads the daily Hansard transcripts in xml format.
 
-It is currently hard-coded to download transcripts starting from 01-01-2018.
+It is currently hard-coded to download transcripts starting after the 2013 election.
 
 ## Dependencies
 
