@@ -7,7 +7,8 @@ It is currently hard-coded to download transcripts starting after the 2013 elect
 * python3
     * BeautifulSoup
     * pandas
-* scrapy
+    * scrapy
+* jupyter
 
 ## How to run
 
