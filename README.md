@@ -15,4 +15,8 @@ Clone or download the repository, then run
 scrapy crawl hansard
 ```
 
-at the terminal from the top-level directory. The transcripts will be placed in the data directory.
+at the terminal from the top-level directory. The transcripts will be placed in the data directory. To process the XML files to produce the CSVs, run 
+
+```
+jupyter nbconvert --execute --ExecutePreprocessor.timeout=-1  process_speeches.ipynb 
+```
