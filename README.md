@@ -5,6 +5,8 @@ It is currently hard-coded to download transcripts starting after the 2013 elect
 ## Dependencies
 
 * python3
+    * BeautifulSoup
+    * pandas
 * scrapy
 
 ## How to run
