@@ -23,3 +23,5 @@ at the terminal from the top-level directory. The transcripts will be placed in 
 ```
 jupyter nbconvert --execute --ExecutePreprocessor.timeout=-1  process_speeches.ipynb 
 ```
+
+A less horrendously inefficient scraper might start from [this](http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3Ahansards,hansards80%20Title%3A%22Start%20of%20Business%22;resCount=Default) search results page.
