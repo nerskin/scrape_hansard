@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 class QuotesSpider(scrapy.Spider):
     name = 'hansard'
-    start_urls = ['https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?__VIEWSTATEGENERATOR=20B6B7A5&ind=0&st=1&sr=0&q=&hto=1&expand=False&drvH=0&drt=2&pnu=45&pnuH=45&f=30%2F08%2F2016&to=18%2F08%2F2018&pi=0&pv=&chi=0&coi=0&ps=100','https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?__VIEWSTATEGENERATOR=20B6B7A5&ind=0&st=1&sr=0&q=&hto=1&expand=False&drvH=0&drt=2&pnu=44&pnuH=44&f=12%2F11%2F2013&to=29%2F08%2F2016&pi=0&pv=&chi=0&coi=0&ps=100']
+    start_urls = ['http://parlinfo.aph.gov.au/parlInfo/search/summary/summary.w3p;adv=yes;orderBy=customrank;page=0;query=Dataset%3Ahansards,hansards80%20Title%3A%22Start%20of%20Business%22;resCount=Default']
 
     found_urls = set()
 
