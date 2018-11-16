@@ -15,12 +15,8 @@ class QuotesSpider(scrapy.Spider):
         ssl._create_default_https_context = ssl._create_unverified_context#don't bother with certificates
         for i in response.css('ul.search-filter-results').css('.action > a::attr(href)'):
             new_url = i.extract()
-            with open('log.txt','a') as f:
-                f.write(new_url+ '\n')
             if re.search('xml$',new_url):
                 if new_url not in self.found_urls:
-                    with open('url.txt','w') as f:
-                        f.write(new_url)
                     data = urllib.request.urlopen(new_url).read().decode('utf-8')
                     print('\a')
                     parsed_data = BeautifulSoup(data,'xml')
@@ -34,7 +30,5 @@ class QuotesSpider(scrapy.Spider):
                         print(filename)
                     self.found_urls.add(new_url)
         next_page_url = response.css('.results-pagination').css('ul').css('li.next > a::attr(href)').extract_first()
-        with open('log.txt','a') as f:
-            f.write('FOund next page url')
         next_page_url = response.urljoin(next_page_url)
         yield scrapy.Request(url = next_page_url,callback = self.parse)
