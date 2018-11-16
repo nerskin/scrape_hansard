@@ -7,7 +7,7 @@
     <period.no>7</period.no>
     <chamber>House of Reps</chamber>
     <page.no>0</page.no>
-    <proof>1</proof>
+    <proof>0</proof>
   </session.header>
   <chamber.xscript>
     <business.start>
@@ -25,14 +25,14 @@
             <span style="font-weight:bold;">
             </span>
             <span style="font-weight:bold;">Tony Smith</span>
-            <span style="font-weight:bold;">) </span>took the chair at 09:30 made an acknowledgement of country and read prayers.</span>
+            <span style="font-weight:bold;">) </span>took the chair at 09:30, made an acknowledgement of country and read prayers.</span>
         </p>
       </body>
     </business.start>
     <debate>
       <debateinfo>
         <title>BILLS</title>
-        <page.no>1</page.no>
+        <page.no>8253</page.no>
         <type>BILLS</type>
       </debateinfo>
       <debate.text>
@@ -45,7 +45,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Federal Circuit and Family Court of Australia Bill 2018</title>
-          <page.no>1</page.no>
+          <page.no>8253</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -59,7 +59,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>First Reading</title>
-            <page.no>1</page.no>
+            <page.no>8253</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -78,7 +78,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Second Reading</title>
-            <page.no>1</page.no>
+            <page.no>8253</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -90,7 +90,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>1</page.no>
+                <page.no>8253</page.no>
                 <time.stamp />
                 <name role="metadata">O'Dwyer, Kelly, MP</name>
                 <name.id>LKU</name.id>
@@ -268,7 +268,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Federal Circuit and Family Court of Australia (Consequential Amendments and Transitional Provisions) Bill 2018</title>
-          <page.no>4</page.no>
+          <page.no>8258</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -282,7 +282,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>First Reading</title>
-            <page.no>4</page.no>
+            <page.no>8258</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -301,7 +301,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Second Reading</title>
-            <page.no>4</page.no>
+            <page.no>8258</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -313,7 +313,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>4</page.no>
+                <page.no>8258</page.no>
                 <time.stamp />
                 <name role="metadata">O'Dwyer, Kelly, MP</name>
                 <name.id>LKU</name.id>
@@ -384,7 +384,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Customs Amendment (Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation) Bill 2018</title>
-          <page.no>6</page.no>
+          <page.no>8260</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -398,7 +398,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>First Reading</title>
-            <page.no>6</page.no>
+            <page.no>8260</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -417,7 +417,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Second Reading</title>
-            <page.no>6</page.no>
+            <page.no>8260</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -429,7 +429,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>6</page.no>
+                <page.no>8260</page.no>
                 <time.stamp />
                 <name role="metadata">Ciobo, Steven, MP</name>
                 <name.id>00AN0</name.id>
@@ -534,7 +534,7 @@
     <debate>
       <debateinfo>
         <title>PARLIAMENTARY REPRESENTATION</title>
-        <page.no>8</page.no>
+        <page.no>8263</page.no>
         <type>PARLIAMENTARY REPRESENTATION</type>
       </debateinfo>
       <debate.text>
@@ -544,254 +544,267 @@
           </p>
         </body>
       </debate.text>
-      <subdebate.2>
+      <subdebate.1>
         <subdebateinfo>
-          <title>Qualifications of Members</title>
-          <page.no>8</page.no>
+          <title>Minister for Immigration and Border Protection and Minister for Home Affairs</title>
+          <page.no>8263</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
-            <p class="HPS-SubSubDebate" style="direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-SubSubDebate">Qualifications of Members</span>
+            <p class="HPS-SubDebate" style="direction:ltr;unicode-bidi:normal;">
+              <span class="HPS-SubDebate">Minister for Immigration and Border Protection and Minister for Home Affairs</span>
             </p>
           </body>
         </subdebate.text>
-        <speech>
-          <talk.start>
-            <talker>
-              <page.no>8</page.no>
-              <time.stamp />
-              <name role="metadata">Burke, Tony, MP</name>
-              <name.id>DYW</name.id>
-              <electorate>Watson</electorate>
-              <party>ALP</party>
-              <in.gov />
-              <first.speech />
-            </talker>
-          </talk.start>
-          <talk.text>
+        <subdebate.2>
+          <subdebateinfo>
+            <title>Qualifications of Members</title>
+            <page.no>8263</page.no>
+          </subdebateinfo>
+          <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
-              <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">
-                  <a href="DYW" type="MemberSpeech">
-                    <span class="HPS-MemberSpeech">Mr BURKE</span>
-                  </a> (<span class="HPS-Electorate">Watson</span>) (<span class="HPS-Time">10:10</span>):  Consistent with the resolution of the House on 4 December 2017, I move:</span>
-              </p>
-              <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Small">That pursuant to section 376 of the Commonwealth Electoral Act 1918, the House of Representatives refer the following questions to the Court of Disputed Returns:</span>
-              </p>
-              <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Small">(1) whether by reason of section 44 of the Constitution, the place of the member for Dickson, Mr Dutton, has become vacant;</span>
-              </p>
-              <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Small">(2) if the answer to question one is yes, by what means and in what manner that vacancy should be filled;</span>
-              </p>
-              <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Small">(3) what directions and other orders, if any, the court should make in order to hear and finally dispose of this reference; and</span>
-              </p>
-              <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Small">(4) what, if any, orders should be made as to the costs of these proceedings?</span>
-              </p>
-              <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
-                <span class="HPS-Normal">The arguments for this have already been well-versed in question time and in the public arena. I don't propose to add to them further.</span>
-              </p>
-              <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">
-                  <span class="HPS-OfficeInterjecting">The SPEAKER:</span>  The question is that motion moved by the Manager of Opposition Business be agreed to.</span>
+              <p class="HPS-SubSubDebate" style="direction:ltr;unicode-bidi:normal;">
+                <span class="HPS-SubSubDebate">Qualifications of Members</span>
               </p>
             </body>
-          </talk.text>
-          <interjection>
+          </subdebate.text>
+          <speech>
             <talk.start>
               <talker>
-                <page.no>8</page.no>
+                <page.no>8263</page.no>
                 <time.stamp />
-                <name role="metadata">SPEAKER, The</name>
-                <name.id>10000</name.id>
-                <electorate />
-                <party />
+                <name role="metadata">Burke, Tony, MP</name>
+                <name.id>DYW</name.id>
+                <electorate>Watson</electorate>
+                <party>ALP</party>
                 <in.gov />
                 <first.speech />
               </talker>
             </talk.start>
             <talk.text>
+              <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+                <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Normal">
+                    <a href="DYW" type="MemberSpeech">
+                      <span class="HPS-MemberSpeech">Mr BURKE</span>
+                    </a> (<span class="HPS-Electorate">Watson</span>) (<span class="HPS-Time">10:10</span>):  Consistent with the resolution of the House on 4 December 2017, I move:</span>
+                </p>
+                <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Small">That pursuant to section 376 of the <span style="font-style:italic;">Commonwealth Electoral Act 1918</span>, the House of Representatives refer the following questions to the Court of Disputed Returns:</span>
+                </p>
+                <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Small">(1) whether, by reason of s44 of the Constitution, the place of the Member for Dickson (Mr Dutton) has become vacant;</span>
+                </p>
+                <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Small">(2) if the answer to (1) one is "yes", by what means and in what manner that vacancy should be filled;</span>
+                </p>
+                <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Small">(3) what directions and other orders, if any, the Court should make in order to hear and finally dispose of this reference; and</span>
+                </p>
+                <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Small">(4) what, if any, orders should be made as to the costs of these proceedings.</span>
+                </p>
+                <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
+                  <span class="HPS-Normal">The arguments for this have already been well versed in question time and in the public arena. I don't propose to add to them further.</span>
+                </p>
+                <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Normal">
+                    <span class="HPS-OfficeInterjecting">The SPEAKER:</span>  The question is that the motion moved by the Manager of Opposition Business be agreed to.</span>
+                </p>
+              </body>
             </talk.text>
-          </interjection>
-        </speech>
-        <division>
-          <division.header>
-            <body>
-              <p class="HPS-DivisionPreamble">The House divided. [10:15]<br />(The Speaker—Hon. Tony Smith)</p>
-            </body>
-          </division.header>
-          <division.data>
-            <ayes>
-              <num.votes>68</num.votes>
-              <title>AYES</title>
-              <names>
-                <name>Albanese, AN</name>
-                <name>Aly, A</name>
-                <name>Bandt, AP</name>
-                <name>Bird, SL</name>
-                <name>Bowen, CE</name>
-                <name>Brodtmann, G</name>
-                <name>Burke, AS</name>
-                <name>Burney, LJ</name>
-                <name>Butler, MC</name>
-                <name>Butler, TM</name>
-                <name>Byrne, AM</name>
-                <name>Chalmers, JE</name>
-                <name>Champion, ND</name>
-                <name>Chesters, LM</name>
-                <name>Clare, JD</name>
-                <name>Claydon, SC</name>
-                <name>Collins, JM</name>
-                <name>Conroy, PM</name>
-                <name>Danby, M</name>
-                <name>Dick, MD</name>
-                <name>Dreyfus, MA</name>
-                <name>Elliot, MJ</name>
-                <name>Ellis, KM</name>
-                <name>Fitzgibbon, JA</name>
-                <name>Freelander, MR</name>
-                <name>Georganas, S</name>
-                <name>Giles, AJ</name>
-                <name>Gorman, P</name>
-                <name>Gosling, LJ</name>
-                <name>Hart, RA</name>
-                <name>Hayes, CP</name>
-                <name>Hill, JC</name>
-                <name>Husic, EN</name>
-                <name>Jones, SP</name>
-                <name>Kearney, GM</name>
-                <name>Keay, JT</name>
-                <name>Kelly, MJ</name>
-                <name>Keogh, MJ</name>
-                <name>Khalil, P</name>
-                <name>King, CF</name>
-                <name>King, MMH</name>
-                <name>Lamb, S</name>
-                <name>Leigh, AK</name>
-                <name>Macklin, JL</name>
-                <name>Marles, RD</name>
-                <name>McBride, EM</name>
-                <name>McGowan, C</name>
-                <name>Mitchell, BK</name>
-                <name>Mitchell, RG</name>
-                <name>Neumann, SK</name>
-                <name>O'Neil, CE</name>
-                <name>O'Toole, C</name>
-                <name>Owens, JA</name>
-                <name>Perrett, GD (teller)</name>
-                <name>Plibersek, TJ</name>
-                <name>Rowland, MA</name>
-                <name>Ryan, JC (teller)</name>
-                <name>Sharkie, RCC</name>
-                <name>Shorten, WR</name>
-                <name>Stanley, AM</name>
-                <name>Swanson, MJ</name>
-                <name>Templeman, SR</name>
-                <name>Thistlethwaite, MJ</name>
-                <name>Vamvakinou, M</name>
-                <name>Watts, TG</name>
-                <name>Wilkie, AD</name>
-                <name>Wilson, JH</name>
-                <name>Zappia, A</name>
-              </names>
-            </ayes>
-            <noes>
-              <num.votes>69</num.votes>
-              <title>NOES</title>
-              <names>
-                <name>Abbott, AJ</name>
-                <name>Alexander, JG</name>
-                <name>Andrews, KL</name>
-                <name>Banks, J</name>
-                <name>Bishop, JI</name>
-                <name>Broad, AJ</name>
-                <name>Broadbent, RE</name>
-                <name>Buchholz, S</name>
-                <name>Chester, D</name>
-                <name>Christensen, GR</name>
-                <name>Ciobo, SM</name>
-                <name>Coleman, DB</name>
-                <name>Coulton, M</name>
-                <name>Crewther, CJ</name>
-                <name>Drum, DK</name>
-                <name>Dutton, PC</name>
-                <name>Entsch, WG</name>
-                <name>Evans, TM</name>
-                <name>Falinski, J</name>
-                <name>Fletcher, PW</name>
-                <name>Frydenberg, JA</name>
-                <name>Gee, AR</name>
-                <name>Gillespie, DA</name>
-                <name>Goodenough, IR</name>
-                <name>Hartsuyker, L</name>
-                <name>Hastie, AW</name>
-                <name>Hawke, AG</name>
-                <name>Henderson, SM</name>
-                <name>Hogan, KJ</name>
-                <name>Howarth, LR</name>
-                <name>Hunt, GA</name>
-                <name>Irons, SJ</name>
-                <name>Joyce, BT</name>
-                <name>Keenan, M</name>
-                <name>Kelly, C</name>
-                <name>Laming, A</name>
-                <name>Landry, ML (teller)</name>
-                <name>Laundy, C</name>
-                <name>Leeser, J</name>
-                <name>Ley, SP</name>
-                <name>Littleproud, D</name>
-                <name>Marino, NB</name>
-                <name>McCormack, MF</name>
-                <name>McVeigh, JJ</name>
-                <name>Morrison, SJ</name>
-                <name>O'Brien, LS</name>
-                <name>O'Dowd, KD</name>
-                <name>O'Dwyer, KM</name>
-                <name>Pasin, A</name>
-                <name>Pitt, KJ</name>
-                <name>Porter, CC</name>
-                <name>Prentice, J</name>
-                <name>Price, ML</name>
-                <name>Pyne, CM</name>
-                <name>Ramsey, RE (teller)</name>
-                <name>Sudmalis, AE</name>
-                <name>Sukkar, MS</name>
-                <name>Taylor, AJ</name>
-                <name>Tehan, DT</name>
-                <name>Tudge, AE</name>
-                <name>Turnbull, MB</name>
-                <name>Van Manen, AJ</name>
-                <name>Vasta, RX</name>
-                <name>Wallace, AB</name>
-                <name>Wicks, LE</name>
-                <name>Wilson, RJ</name>
-                <name>Wilson, TR</name>
-                <name>Wood, JP</name>
-                <name>Wyatt, KG</name>
-              </names>
-            </noes>
-            <pairs>
-              <num.votes>0</num.votes>
-              <title>PAIRS</title>
-              <names />
-            </pairs>
-          </division.data>
-          <division.result>
-            <body>
-              <p class="HPS-DivisionFooter">Question negatived.</p>
-            </body>
-          </division.result>
-        </division>
-      </subdebate.2>
+            <interjection>
+              <talk.start>
+                <talker>
+                  <page.no>8263</page.no>
+                  <time.stamp />
+                  <name role="metadata">SPEAKER, The</name>
+                  <name.id>10000</name.id>
+                  <electorate />
+                  <party />
+                  <in.gov />
+                  <first.speech />
+                </talker>
+              </talk.start>
+              <talk.text>
+              </talk.text>
+            </interjection>
+          </speech>
+          <division>
+            <division.header>
+              <body>
+                <p class="HPS-DivisionPreamble">The House divided. [10:15]<br />(The Speaker—Hon. Tony Smith)</p>
+              </body>
+            </division.header>
+            <division.data>
+              <ayes>
+                <num.votes>68</num.votes>
+                <title>AYES</title>
+                <names>
+                  <name>Albanese, AN</name>
+                  <name>Aly, A</name>
+                  <name>Bandt, AP</name>
+                  <name>Bird, SL</name>
+                  <name>Bowen, CE</name>
+                  <name>Brodtmann, G</name>
+                  <name>Burke, AS</name>
+                  <name>Burney, LJ</name>
+                  <name>Butler, MC</name>
+                  <name>Butler, TM</name>
+                  <name>Byrne, AM</name>
+                  <name>Chalmers, JE</name>
+                  <name>Champion, ND</name>
+                  <name>Chesters, LM</name>
+                  <name>Clare, JD</name>
+                  <name>Claydon, SC</name>
+                  <name>Collins, JM</name>
+                  <name>Conroy, PM</name>
+                  <name>Danby, M</name>
+                  <name>Dick, MD</name>
+                  <name>Dreyfus, MA</name>
+                  <name>Elliot, MJ</name>
+                  <name>Ellis, KM</name>
+                  <name>Fitzgibbon, JA</name>
+                  <name>Freelander, MR</name>
+                  <name>Georganas, S</name>
+                  <name>Giles, AJ</name>
+                  <name>Gorman, P</name>
+                  <name>Gosling, LJ</name>
+                  <name>Hart, RA</name>
+                  <name>Hayes, CP</name>
+                  <name>Hill, JC</name>
+                  <name>Husic, EN</name>
+                  <name>Jones, SP</name>
+                  <name>Kearney, GM</name>
+                  <name>Keay, JT</name>
+                  <name>Kelly, MJ</name>
+                  <name>Keogh, MJ</name>
+                  <name>Khalil, P</name>
+                  <name>King, CF</name>
+                  <name>King, MMH</name>
+                  <name>Lamb, S</name>
+                  <name>Leigh, AK</name>
+                  <name>Macklin, JL</name>
+                  <name>Marles, RD</name>
+                  <name>McBride, EM</name>
+                  <name>McGowan, C</name>
+                  <name>Mitchell, BK</name>
+                  <name>Mitchell, RG</name>
+                  <name>Neumann, SK</name>
+                  <name>O'Neil, CE</name>
+                  <name>O'Toole, C</name>
+                  <name>Owens, JA</name>
+                  <name>Perrett, GD (teller)</name>
+                  <name>Plibersek, TJ</name>
+                  <name>Rowland, MA</name>
+                  <name>Ryan, JC (teller)</name>
+                  <name>Sharkie, RCC</name>
+                  <name>Shorten, WR</name>
+                  <name>Stanley, AM</name>
+                  <name>Swanson, MJ</name>
+                  <name>Templeman, SR</name>
+                  <name>Thistlethwaite, MJ</name>
+                  <name>Vamvakinou, M</name>
+                  <name>Watts, TG</name>
+                  <name>Wilkie, AD</name>
+                  <name>Wilson, JH</name>
+                  <name>Zappia, A</name>
+                </names>
+              </ayes>
+              <noes>
+                <num.votes>69</num.votes>
+                <title>NOES</title>
+                <names>
+                  <name>Abbott, AJ</name>
+                  <name>Alexander, JG</name>
+                  <name>Andrews, KL</name>
+                  <name>Banks, J</name>
+                  <name>Bishop, JI</name>
+                  <name>Broad, AJ</name>
+                  <name>Broadbent, RE</name>
+                  <name>Buchholz, S</name>
+                  <name>Chester, D</name>
+                  <name>Christensen, GR</name>
+                  <name>Ciobo, SM</name>
+                  <name>Coleman, DB</name>
+                  <name>Coulton, M</name>
+                  <name>Crewther, CJ</name>
+                  <name>Drum, DK</name>
+                  <name>Dutton, PC</name>
+                  <name>Entsch, WG</name>
+                  <name>Evans, TM</name>
+                  <name>Falinski, J</name>
+                  <name>Fletcher, PW</name>
+                  <name>Frydenberg, JA</name>
+                  <name>Gee, AR</name>
+                  <name>Gillespie, DA</name>
+                  <name>Goodenough, IR</name>
+                  <name>Hartsuyker, L</name>
+                  <name>Hastie, AW</name>
+                  <name>Hawke, AG</name>
+                  <name>Henderson, SM</name>
+                  <name>Hogan, KJ</name>
+                  <name>Howarth, LR</name>
+                  <name>Hunt, GA</name>
+                  <name>Irons, SJ</name>
+                  <name>Joyce, BT</name>
+                  <name>Keenan, M</name>
+                  <name>Kelly, C</name>
+                  <name>Laming, A</name>
+                  <name>Landry, ML (teller)</name>
+                  <name>Laundy, C</name>
+                  <name>Leeser, J</name>
+                  <name>Ley, SP</name>
+                  <name>Littleproud, D</name>
+                  <name>Marino, NB</name>
+                  <name>McCormack, MF</name>
+                  <name>McVeigh, JJ</name>
+                  <name>Morrison, SJ</name>
+                  <name>O'Brien, LS</name>
+                  <name>O'Dowd, KD</name>
+                  <name>O'Dwyer, KM</name>
+                  <name>Pasin, A</name>
+                  <name>Pitt, KJ</name>
+                  <name>Porter, CC</name>
+                  <name>Prentice, J</name>
+                  <name>Price, ML</name>
+                  <name>Pyne, CM</name>
+                  <name>Ramsey, RE (teller)</name>
+                  <name>Sudmalis, AE</name>
+                  <name>Sukkar, MS</name>
+                  <name>Taylor, AJ</name>
+                  <name>Tehan, DT</name>
+                  <name>Tudge, AE</name>
+                  <name>Turnbull, MB</name>
+                  <name>Van Manen, AJ</name>
+                  <name>Vasta, RX</name>
+                  <name>Wallace, AB</name>
+                  <name>Wicks, LE</name>
+                  <name>Wilson, RJ</name>
+                  <name>Wilson, TR</name>
+                  <name>Wood, JP</name>
+                  <name>Wyatt, KG</name>
+                </names>
+              </noes>
+              <pairs>
+                <num.votes>0</num.votes>
+                <title>PAIRS</title>
+                <names />
+              </pairs>
+            </division.data>
+            <division.result>
+              <body>
+                <p class="HPS-DivisionFooter">Question negatived.</p>
+              </body>
+            </division.result>
+          </division>
+        </subdebate.2>
+      </subdebate.1>
     </debate>
     <debate>
       <debateinfo>
         <title>BILLS</title>
-        <page.no>9</page.no>
+        <page.no>8265</page.no>
         <type>BILLS</type>
       </debateinfo>
       <debate.text>
@@ -804,7 +817,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Customs Tariff Amendment (Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation) Bill 2018</title>
-          <page.no>9</page.no>
+          <page.no>8265</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -818,7 +831,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>First Reading</title>
-            <page.no>9</page.no>
+            <page.no>8265</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -837,7 +850,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Second Reading</title>
-            <page.no>9</page.no>
+            <page.no>8265</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -849,7 +862,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>9</page.no>
+                <page.no>8265</page.no>
                 <time.stamp />
                 <name role="metadata">Ciobo, Steven, MP</name>
                 <name.id>00AN0</name.id>
@@ -906,7 +919,7 @@
     <debate>
       <debateinfo>
         <title>COMMITTEES</title>
-        <page.no>10</page.no>
+        <page.no>8266</page.no>
         <type>COMMITTEES</type>
       </debateinfo>
       <debate.text>
@@ -919,7 +932,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Public Works Committee</title>
-          <page.no>10</page.no>
+          <page.no>8266</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -931,7 +944,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Approval of Work</title>
-            <page.no>10</page.no>
+            <page.no>8266</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -943,7 +956,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>10</page.no>
+                <page.no>8266</page.no>
                 <time.stamp />
                 <name role="metadata">Coleman, David, MP</name>
                 <name.id>241067</name.id>
@@ -962,7 +975,7 @@
                     </a> (<span class="HPS-Electorate">Banks</span>—<span class="HPS-MinisterialTitles">Assistant Minister for Finance</span>) (<span class="HPS-Time">10:26</span>):  I move:</span>
                 </p>
                 <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                  <span class="HPS-Small">That, in accordance with the provisions of the Public Works Committee Act 1969, it is expedient to carry out the following proposed work which was referred to the Parliamentary Standing Committee on Public Works and on which the committee has duly reported to Parliament: Jindalee Operational Radar Network Phase 6 facilities project.</span>
+                  <span class="HPS-Small">That, in accordance with the provisions of the <span style="font-style:italic;">Public Works Committee Act 1969</span>, it is expedient to carry out the following proposed work which was referred to the Parliamentary Standing Committee on Public Works and on which the committee has duly reported to Parliament: Jindalee Operational Radar Network Phase 6 facilities project.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
                   <span class="HPS-Normal">As advised when this project was referred to the Public Works Committee on 24 May this year, the Department of Defence is proposing to undertake a number of infrastructure works at Jindalee Operational Radar Network sites in the Northern Territory, Western Australia, South Australia and Queensland. The <span style="font-style:italic;">2016 Defence white paper</span><span style="font-style:italic;"></span>noted the importance of the Jindalee Operational Radar Network and advised of the government's intention to upgrade the network. The project will employ a diverse range of skilled consultants, contractors and construction workers, with up to approximately 200 personnel and an average construction workforce of up to approximately 15 personnel. The estimated cost to deliver the project is $50.7 million. The committee has conducted an inquiry and considers the project to be value for money for the Commonwealth, fit for purpose and expedient to carry out. On behalf of the government, I would like to thank the committee for once again undertaking a timely inquiry. Subject to parliamentary approval of the proposed works, construction will commence in early 2019 and be completed by late 2020. I commend the motion to the House.</span>
@@ -977,7 +990,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Approval of Work</title>
-            <page.no>10</page.no>
+            <page.no>8266</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -989,7 +1002,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>10</page.no>
+                <page.no>8266</page.no>
                 <time.stamp />
                 <name role="metadata">Coleman, David, MP</name>
                 <name.id>241067</name.id>
@@ -1008,7 +1021,7 @@
                     </a> (<span class="HPS-Electorate">Banks</span>—<span class="HPS-MinisterialTitles">Assistant Minister for Finance</span>) (<span class="HPS-Time">10:28</span>):  I move:</span>
                 </p>
                 <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;">
-                  <span class="HPS-Small">That, in accordance with the provisions of the Public Works Committee Act 1969, it is expedient to carry out the following proposed work which was referred to the Parliamentary Standing Committee on Public Works and on which the committee has duly reported to Parliament: LAND2110 Phase 1B Australian Defence Force Chemical, Biological, Radiological and Nuclear Defence Capability Facilities Project.</span>
+                  <span class="HPS-Small">That, in accordance with the provisions of the <span style="font-style:italic;">Public Works Committee Act 1969</span>, it is expedient to carry out the following proposed work which was referred to the Parliamentary Standing Committee on Public Works and on which the committee has duly reported to Parliament: LAND2110 Phase 1B Australian Defence Force Chemical, Biological, Radiological and Nuclear Defence Capability Facilities Project.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
                   <span class="HPS-Normal">As advised when this project was referred to the Public Works Committee on 10 May 2018, the Department of Defence is proposing to construct and refurbish mask-testing facilities as well as storage facilities that will support chemical, biological, radiological and nuclear defence training and capability at 14 locations across Australia. The <span style="font-style:italic;">2016 Defence white paper</span> identifies the importance of providing Defence with enhanced domestic security capabilities—including its chemical, biological, radiological and nuclear defence capability—to help respond to the threat of complex terrorist attacks within Australia. The works are expected to generate short-term employment opportunities, predominantly in the building, construction and labour markets, in each of the relevant locations. The works are also expected to provide opportunities for suppliers in the manufacture and distribution of construction materials and equipment. The estimated cost to deliver the project is $16.7 million, excluding GST. The committee has conducted an inquiry and considers the project to be value for money for the Commonwealth, fit for purpose and expedient to carry out. On behalf of the government, I would like to thank the committee for once again undertaking a timely inquiry. Subject to parliamentary approval of the works, construction is expected to commence in early 2019 and be completed by late 2019. I commend the motion to the House.</span>
@@ -1023,7 +1036,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Reference</title>
-            <page.no>11</page.no>
+            <page.no>8267</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -1035,7 +1048,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>11</page.no>
+                <page.no>8267</page.no>
                 <time.stamp />
                 <name role="metadata">Coleman, David, MP</name>
                 <name.id>241067</name.id>
@@ -1080,7 +1093,7 @@
     <debate>
       <debateinfo>
         <title>BILLS</title>
-        <page.no>11</page.no>
+        <page.no>8268</page.no>
         <type>BILLS</type>
       </debateinfo>
       <debate.text>
@@ -1093,7 +1106,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Social Services Legislation Amendment (Student Reform) Bill 2018</title>
-          <page.no>11</page.no>
+          <page.no>8268</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -1107,7 +1120,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Second Reading</title>
-            <page.no>11</page.no>
+            <page.no>8268</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -1140,7 +1153,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>11</page.no>
+                <page.no>8268</page.no>
                 <time.stamp />
                 <name role="metadata">Mitchell, Rob (The DEPUTY SPEAKER)</name>
                 <name.id>10000</name.id>
@@ -1167,7 +1180,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>11</page.no>
+                <page.no>8268</page.no>
                 <time.stamp />
                 <name role="metadata">Wilson, Rick, MP</name>
                 <name.id>198084</name.id>
@@ -1212,7 +1225,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>12</page.no>
+                <page.no>8270</page.no>
                 <time.stamp />
                 <name role="metadata">Georganas, Steve, MP</name>
                 <name.id>DZY</name.id>
@@ -1287,7 +1300,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>15</page.no>
+                <page.no>8273</page.no>
                 <time.stamp />
                 <name role="metadata">Ramsey, Rowan, MP</name>
                 <name.id>HWS</name.id>
@@ -1350,7 +1363,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>17</page.no>
+                <page.no>8276</page.no>
                 <time.stamp />
                 <name role="metadata">Marino, Nola, MP</name>
                 <name.id>HWP</name.id>
@@ -1413,7 +1426,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>19</page.no>
+                <page.no>8280</page.no>
                 <time.stamp />
                 <name role="metadata">McVeigh, John, MP</name>
                 <name.id>125865</name.id>
@@ -1445,7 +1458,10 @@
                     <span class="HPS-OfficeInterjecting">The SPEAKER:</span>  I thank the minister. The original question was that this bill be now read a second time. To this the honourable member for Barton moved an amendment that all words after 'that' be omitted with a view to substituting other words. So the immediate question is that the amendment moved by the member for Barton be agreed to.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                  <span class="HPS-Normal">Question agreed to.</span>
+                  <span class="HPS-Normal">Question negatived.</span>
+                </p>
+                <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
+                  <span class="HPS-Normal">Original question agreed to.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                   <span class="HPS-Normal">Bill read a second time.</span>
@@ -1458,7 +1474,7 @@
             <interjection>
               <talk.start>
                 <talker>
-                  <page.no>19</page.no>
+                  <page.no>8280</page.no>
                   <time.stamp />
                   <name role="metadata">SPEAKER, The</name>
                   <name.id>10000</name.id>
@@ -1476,7 +1492,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Third Reading</title>
-            <page.no>20</page.no>
+            <page.no>8281</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -1488,7 +1504,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>20</page.no>
+                <page.no>8281</page.no>
                 <time.stamp />
                 <name role="metadata">McVeigh, John, MP</name>
                 <name.id>125865</name.id>
@@ -1524,7 +1540,7 @@
     <debate>
       <debateinfo>
         <title>ADJOURNMENT</title>
-        <page.no>20</page.no>
+        <page.no>8281</page.no>
         <type>ADJOURNMENT</type>
       </debateinfo>
       <debate.text>
@@ -1537,7 +1553,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>20</page.no>
+            <page.no>8281</page.no>
             <time.stamp />
             <name role="metadata">Pyne, Christopher, MP</name>
             <name.id>9V5</name.id>
@@ -1564,7 +1580,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>20</page.no>
+            <page.no>8281</page.no>
             <time.stamp />
             <name role="metadata">Burke, Tony, MP</name>
             <name.id>DYW</name.id>
@@ -1603,7 +1619,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>20</page.no>
+            <page.no>8282</page.no>
             <time.stamp />
             <name role="metadata">Shorten, Bill, MP</name>
             <name.id>00ATG</name.id>
@@ -1619,7 +1635,7 @@
               <span class="HPS-Normal">
                 <a href="00ATG" type="MemberSpeech">
                   <span class="HPS-MemberSpeech">Mr SHORTEN</span>
-                </a> (<span class="HPS-Electorate">Maribyrnong</span>—<span class="HPS-MinisterialTitles">Leader of the Opposition</span>) (<span class="HPS-Time">11:38</span>):  What I say today is not addressed to the government, because Australia no longer has a functioning government. What I say today is not addressed to the coalition or the Liberal Party, because they have no leader of the Liberal Party. The Liberal Party, whatever it does today and tomorrow, is irreparably split. What we have seen in the last few days is a government and a Liberal Party who know that they need to focus on the needs of the people, but they just cannot help themselves.</span>
+                </a> (<span class="HPS-Electorate">Maribyrnong</span>—<span class="HPS-MinisterialTitles">Leader of the Opposition</span>) (<span class="HPS-Time">11:38</span>):  What I say today is not addressed to the government, because Australia no longer has a functioning government. What I say today is not addressed to the coalition or the Liberal Party, because they have no Leader of the Liberal Party. The Liberal Party, whatever it does today and tomorrow, is irreparably split. What we have seen in the last few days is a government and a Liberal Party who know that they need to focus on the needs of the people, but they just cannot help themselves.</span>
             </p>
             <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
               <span class="HPS-Normal">No-one in this parliament in the last decade can hold their head high about bitterness and argument, but I recognise that Labor has learned its lesson over the last five years. But now the government is proposing to adjourn the parliament. To adjourn the parliament would imply somehow that the parliament does not have pressing matters before it. It most certainly does. To adjourn the parliament would be an admission that the parliament has failed. It is not the parliament that has failed; it is the Turnbull Liberal government in this country which has failed. The country doesn't need a different Liberal leader; it needs a different government. The government may adjourn the parliament but it cannot outrun the weight of failure of this government.</span>
@@ -1654,7 +1670,7 @@
         <continue>
           <talk.start>
             <talker>
-              <page.no>21</page.no>
+              <page.no>8283</page.no>
               <time.stamp />
               <name role="metadata">Shorten, Bill, MP</name>
               <name.id>00ATG</name.id>
@@ -1671,7 +1687,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>21</page.no>
+            <page.no>8283</page.no>
             <time.stamp />
             <name role="metadata">Plibersek, Tanya, MP</name>
             <name.id>83M</name.id>
@@ -1710,7 +1726,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>22</page.no>
+            <page.no>8284</page.no>
             <time.stamp />
             <name role="metadata">Pyne, Christopher, MP</name>
             <name.id>9V5</name.id>
@@ -1740,7 +1756,7 @@
         <interjection>
           <talk.start>
             <talker>
-              <page.no>22</page.no>
+              <page.no>8284</page.no>
               <time.stamp />
               <name role="metadata">SPEAKER, The</name>
               <name.id>10000</name.id>
@@ -1757,7 +1773,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>23</page.no>
+            <page.no>8286</page.no>
             <time.stamp />
             <name role="metadata">Smith, Tony, MP</name>
             <name.id>00APG</name.id>
@@ -1773,15 +1789,7 @@
               <span class="HPS-Normal">
                 <a href="00APG" type="MemberSpeech">
                   <span class="HPS-MemberSpeech">The SPEAKER</span>
-                </a> (<span class="HPS-Time">11:57</span>):  The question now is that the House do now adjourn.</span>
-            </p>
-            <p class="HPS-Normal" style="text-align:center;direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-Normal">
-                <span style="font-weight:bold;" />
-                <span style="font-weight:bold;">House adjourned at </span>
-                <span style="font-weight:bold;">12</span>
-                <span style="font-weight:bold;">:00</span>
-              </span>
+                </a> (11<span class="HPS-Time">:57</span>):  The question now is that the House do now adjourn.</span>
             </p>
             <p class="HPS-Normal" style="&#xD;&#xA;        margin-bottom:10pt;&#xD;&#xA;      text-align:left;direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
               <span class="HPS-Normal">
@@ -2145,7 +2153,7 @@
         </division.data>
         <division.result>
           <body>
-            <p class="HPS-DivisionFooter">Question agreed to.</p>
+            <p class="HPS-DivisionFooter">Question agreed to.<br />House adjourned at 12:00</p>
           </body>
         </division.result>
       </division>
@@ -2173,7 +2181,7 @@
     <debate>
       <debateinfo>
         <title>CONSTITUENCY STATEMENTS</title>
-        <page.no>26</page.no>
+        <page.no>8289</page.no>
         <type>CONSTITUENCY STATEMENTS</type>
       </debateinfo>
       <debate.text>
@@ -2186,7 +2194,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Isaacs Electorate: Dingley Village</title>
-          <page.no>26</page.no>
+          <page.no>8289</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2198,7 +2206,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>26</page.no>
+              <page.no>8289</page.no>
               <time.stamp />
               <name role="metadata">Dreyfus, Mark, MP</name>
               <name.id>HWG</name.id>
@@ -2238,7 +2246,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Hinkler Electorate: Seafood Industry</title>
-          <page.no>26</page.no>
+          <page.no>8289</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2250,7 +2258,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>26</page.no>
+              <page.no>8289</page.no>
               <time.stamp />
               <name role="metadata">Pitt, Keith, MP</name>
               <name.id>148150</name.id>
@@ -2293,7 +2301,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Liberal Party Leadership</title>
-          <page.no>27</page.no>
+          <page.no>8290</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2305,7 +2313,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>27</page.no>
+              <page.no>8290</page.no>
               <time.stamp />
               <name role="metadata">Dick, Milton, MP</name>
               <name.id>53517</name.id>
@@ -2344,7 +2352,7 @@
           <continue>
             <talk.start>
               <talker>
-                <page.no>27</page.no>
+                <page.no>8291</page.no>
                 <time.stamp />
                 <name role="metadata">Dick, Milton, MP</name>
                 <name.id>53517</name.id>
@@ -2361,20 +2369,20 @@
       </subdebate.1>
       <subdebate.1>
         <subdebateinfo>
-          <title>Small Business</title>
-          <page.no>27</page.no>
+          <title>Fisher Electorate: Small Business</title>
+          <page.no>8291</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
             <p class="HPS-SubDebate" style="direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-SubDebate">Small Business</span>
+              <span class="HPS-SubDebate">Fisher Electorate: Small Business</span>
             </p>
           </body>
         </subdebate.text>
         <speech>
           <talk.start>
             <talker>
-              <page.no>27</page.no>
+              <page.no>8291</page.no>
               <time.stamp />
               <name role="metadata">Wallace, Andrew, MP</name>
               <name.id>265967</name.id>
@@ -2390,10 +2398,10 @@
                 <span class="HPS-Normal">
                   <a href="265967" type="MemberSpeech">
                     <span class="HPS-MemberSpeech">Mr WALLACE</span>
-                  </a> (<span class="HPS-Electorate">Fisher</span>) (<span class="HPS-Time">10:09</span>):  It's not uncommon to hear members in this place reflect on the value of small businesses in our community. Whether it's the local butcher, the corner shop or a strawberry farm, they all contribute in wide-ranging ways to the fabric of our community. As a small business owner for 30 years, I know from personal experience what a hard slog it can be, but the rewards, more often than not, make it worth it.</span>
+                  </a> (<span class="HPS-Electorate">Fisher</span>) (<span class="HPS-Time">10:09</span>):  It's not uncommon to hear members in this place reflect on the value of small businesses in our community. Whether it's the local butcher, the corner shop or a strawberry farm, they all contribute in wide-ranging ways to the fabric of our community. As a small-business owner for 30 years, I know from personal experience what a hard slog it can be, but the rewards, more often than not, make it worth it.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">In my role as the member for Fisher I make it a priority to regularly visit small and family business operators, to keep connected and engaged with the current business climate. While in Caloundra recently, I caught up with Tony Swain, from Swain Family Meats, a great local butcher offering excellent service and quality meat. Tony and his team of butchers have become an institution in the Little Mountain area, with many families dropping in after work to purchase what they need to rustle up the family dinner. Tony even sells the award-winning Maleny Dairies milk—so many of his customers drop by to get their supply. I also recently stopped in and had breakfast at CK Wholefoods in Mooloolaba, where I was able to chat to its owner, Martin, about his current growth and future plans.</span>
+                <span class="HPS-Normal">In my role as the member for Fisher I make it a priority to regularly visit small- and family-business operators, to keep connected and engaged with the current business climate. While in Caloundra recently, I caught up with Tony Swain, from Swain Family Meats, a great local butcher offering excellent service and quality meat. Tony and his team of butchers have become an institution in the Little Mountain area, with many families dropping in after work to purchase what they need to rustle up the family dinner. Tony even sells the award-winning Maleny Dairies milk—so many of his customers drop by to get their supply. I also recently stopped in and had breakfast at CK Wholefoods in Mooloolaba, where I was able to chat to its owner, Martin, about his current growth and future plans.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                 <span class="HPS-Normal">The winter break also afforded me the opportunity to get out and about in the sensational Sunshine Coast hinterland, where I spent some time with Rick Twist from Twist Brothers Strawberry Farm. If I'm talking about institutions on the Sunshine Coast, Twist Brothers Strawberry Farm is certainly up there with the best of them. My wife and I used to take our kids to the Twist strawberry farm when they were little, and this was a great trip down memory lane. During my chat with Rick, he explained how he was in the process of looking at ways to diversify his current business model and offered many helpful suggestions on how the government could look at introducing measures to stimulate positive changes and growth in the business community.</span>
@@ -2430,7 +2438,7 @@
           <continue>
             <talk.start>
               <talker>
-                <page.no>28</page.no>
+                <page.no>8292</page.no>
                 <time.stamp />
                 <name role="metadata">Wallace, Andrew, MP</name>
                 <name.id>265967</name.id>
@@ -2447,20 +2455,20 @@
       </subdebate.1>
       <subdebate.1>
         <subdebateinfo>
-          <title>China</title>
-          <page.no>28</page.no>
+          <title>Telecommunications</title>
+          <page.no>8292</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
             <p class="HPS-SubDebate" style="direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-SubDebate">China</span>
+              <span class="HPS-SubDebate">Telecommunications</span>
             </p>
           </body>
         </subdebate.text>
         <speech>
           <talk.start>
             <talker>
-              <page.no>28</page.no>
+              <page.no>8292</page.no>
               <time.stamp />
               <name role="metadata">Danby, Michael, MP</name>
               <name.id>WF6</name.id>
@@ -2479,10 +2487,10 @@
                   </a> (<span class="HPS-Electorate">Melbourne Ports</span>) (<span class="HPS-Time">10:27</span>):  I want to renew my appeal today for Australia not to allow the Huawei company to bid for the 5G network. I remind people that some months ago I said to the House:</span>
               </p>
               <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
-                <span class="HPS-Small">I'm talking about Huawei and ZTE. Both these telcos are subject to government … dictates. </span>
+                <span class="HPS-Small">I'm talking about Huawei and ZTE. Both these telcos are subject to government … dictates—</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
-                <span class="HPS-Normal">In Beijing. I went on:</span>
+                <span class="HPS-Normal">in Beijing. I went on:</span>
               </p>
               <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
                 <span class="HPS-Small">Both Huawei and ZTE must report to a Communist Party cell at the top of their organisations. Let me issue a clarion call to this parliament … Australia's 5G network must not be sold to these telcos. Whatever instructions might be issued for Australian sovereignty—</span>
@@ -2506,7 +2514,7 @@
                 <span class="HPS-Normal">And:</span>
               </p>
               <p class="HPS-Small" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
-                <span class="HPS-Small">… Huawei’s processes continue to fall short of industry good practice …</span>
+                <span class="HPS-Small">… Huawei's processes continue to fall short of industry good practice …</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;&#xD;&#xA;          text-indent:0pt;&#xD;&#xA;        ">
                 <span class="HPS-Normal">The report said:</span>
@@ -2526,20 +2534,20 @@
       </subdebate.1>
       <subdebate.1>
         <subdebateinfo>
-          <title>O'Connor Electorate: Pensions and Benefits</title>
-          <page.no>29</page.no>
+          <title>O'Connor Electorate: Welfare Reform</title>
+          <page.no>8293</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
             <p class="HPS-SubDebate" style="direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-SubDebate">O'Connor Electorate: Pensions and Benefits</span>
+              <span class="HPS-SubDebate">O'Connor Electorate: Welfare Reform</span>
             </p>
           </body>
         </subdebate.text>
         <speech>
           <talk.start>
             <talker>
-              <page.no>29</page.no>
+              <page.no>8293</page.no>
               <time.stamp />
               <name role="metadata">Wilson, Rick, MP</name>
               <name.id>198084</name.id>
@@ -2561,7 +2569,7 @@
                 <span class="HPS-Normal">Senator Siewert has only visited this part of my electorate on a couple of occasions. I don't believe she has ever stayed long enough to witness firsthand the social issues that the region has experienced. Street drinking and fighting, homelessness, shoplifting, lawlessness and, probably saddest of all, children without parental support, children without food in their tummies and children not safe in their own homes.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">There are over 3,000 participants on this trial. I am in constant contact with the Department of Social Services, who are responsible for the rollout and maintenance of this program; with those who work as local partners in the community hubs; with merchants and community leaders; and with participants directly who have reached out to me and received assistance. I promise you: this card is working. But don't just take my word for it. The City of Kalgoorlie-Boulder Mayor, John Bowler, said that, although the card only started earlier this year, 'all indications were positive'.</span>
+                <span class="HPS-Normal">There are over 3,000 participants on this trial. I am in constant contact with the Department of Social Services, who are responsible for the rollout and maintenance of this program; with those who work as local partners in the community hubs; with merchants and community leaders; and with participants directly who have reached out to me and received assistance. I promise you: this card is working. But don't just take my word for it. The City of Kalgoorlie-Boulder's mayor, John Bowler, said that, although the card only started earlier this year, 'all indications were positive'.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                 <span class="HPS-Normal">Last week police reported to a liquor accord meeting that the level of antisocial behaviour on the streets was clearly down in the past couple of months. Bottle shop retailers reported that there were considerably fewer disturbances around their premises. Those who are rorting the card are being brought to account, with one hotel now being blocked from accepting the card. With respect to their two community hubs, Mayor Bowler also noted:</span>
@@ -2588,7 +2596,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Makin Electorate: Parafield Gardens</title>
-          <page.no>29</page.no>
+          <page.no>8294</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2600,7 +2608,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>29</page.no>
+              <page.no>8294</page.no>
               <time.stamp />
               <name role="metadata">Zappia, Tony, MP</name>
               <name.id>HWB</name.id>
@@ -2634,7 +2642,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>National Science Week</title>
-          <page.no>30</page.no>
+          <page.no>8295</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2646,7 +2654,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>30</page.no>
+              <page.no>8295</page.no>
               <time.stamp />
               <name role="metadata">Wilson, Tim, MP</name>
               <name.id>IMW</name.id>
@@ -2683,7 +2691,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Aged Care</title>
-          <page.no>30</page.no>
+          <page.no>8295</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2695,7 +2703,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>30</page.no>
+              <page.no>8295</page.no>
               <time.stamp />
               <name role="metadata">Collins, Julie, MP</name>
               <name.id>HWM</name.id>
@@ -2726,7 +2734,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Workplace Relations</title>
-          <page.no>31</page.no>
+          <page.no>8296</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2738,7 +2746,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>31</page.no>
+              <page.no>8296</page.no>
               <time.stamp />
               <name role="metadata">Christensen, George, MP</name>
               <name.id>230485</name.id>
@@ -2754,10 +2762,10 @@
                 <span class="HPS-Normal">
                   <a href="230485" type="MemberSpeech">
                     <span class="HPS-MemberSpeech">Mr CHRISTENSEN</span>
-                  </a> (<span class="HPS-Electorate">Dawson</span>) (<span class="HPS-Time">10:42</span>):  You won't hear too many speeches where I congratulate the CFMEU, but I am going to congratulate them on a legal victory they won last week on behalf of one of their members, a casual worker employed by a labour hire contractor in the Bowen Basin mines. For a long time I have been saying that the practices of major mining houses in putting on these contracted labour hire casual workers as de facto full-time workers is an unethical practice. It clearly is. You can't have someone contracted by a labour hire firm as a casual employee working side by side with full-time employees, doing the same job and the same shifts, for years and years on end. I know that it's become a political partisan issue—at least people are trying to make it so—but people have been employed on these casual arrangements from way back when Kevin Rudd and Julia Gillard were Prime Minister. This has been going on under successive governments. It is the collective fault of all of the mining companies that are engaging in these practices. They are doing it under the fair work laws that were instituted by the previous Labor government. That I have to note as well.</span>
+                  </a> (<span class="HPS-Electorate">Dawson</span>) (<span class="HPS-Time">10:42</span>):  You won't hear too many speeches where I congratulate the CFMEU, but I am going to congratulate them on a legal victory they won last week on behalf of one of their members, a casual worker employed by a labour hire contractor in the Bowen Basin mines. For a long time I have been saying that the practices of major mining houses in putting on these contracted labour hire casual workers as de facto full-time workers is an unethical practice. It clearly is. You can't have someone contracted by a labour hire firm as a casual employee working side by side with full-time employees, doing the same job and the same shifts, for years and years on end. I know that it's become a political, partisan issue—at least people are trying to make it so—but people have been employed on these casual arrangements from way back when Kevin Rudd and Julia Gillard were Prime Minister. This has been going on under successive governments. It is the collective fault of all of the mining companies that are engaging in these practices. They are doing it under the Fair Work laws that were instituted by the previous Labor government. That I have to note as well.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">But there was a victory last week where casual workers who are terminated after they've been employed for a period of time as de facto full-time workers are now given the ability to get all the entitlements at severance that are available to full-time workers. Essentially the law is saying here: these people are full-timers. I note the Labor Party has a policy in this regard, which it calls 'same work same pay'. But I've got to tell you it is really a no-work-no-pay provision. If, as Labor proposes, we set a timeframe on the conversion of a casual labour hire contract worker to a full-time worker, all the mining house is going to do is simply terminate their contract with the labour hire contractor. That casual worker won't then go onto a full-time job; they will go onto no job and the unemployment queue. It's a very, very big problem that we have here.</span>
+                <span class="HPS-Normal">But there was a victory last week where casual workers who are terminated after they've been employed for a period of time as de facto full-time workers are now given the ability to get all the entitlements at severance that are available to full-time workers. Essentially the law is saying here: these people are full-timers. I note the Labor Party has a policy in this regard, which it calls 'same work same pay'. But I've got to tell you it is really a no-work-no-pay provision. If, as Labor proposes, we set a time frame on the conversion of a casual labour hire contract worker to a full-time worker, all the mining house is going to do is simply terminate their contract with the labour hire contractor. That casual worker won't then go onto a full-time job; they will go onto no job and the unemployment queue. It's a very, very big problem that we have here.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                 <span class="HPS-Normal">There are no easy solutions, but I have implored my government, through the employment minister, the Leader of the National Party, and the minister for resources, to look very carefully at this and what we can do to fix this problem that is not going to lead to further job insecurity by making people unemployed—as Labor plans to do. So I call on the mining companies to end this practice. It is wrong and it is unethical. <span style="font-style:italic;">(Time expired)</span></span>
@@ -2776,7 +2784,7 @@
           <interjection>
             <talk.start>
               <talker>
-                <page.no>31</page.no>
+                <page.no>8297</page.no>
                 <time.stamp />
                 <name role="metadata">Vamvakinou, Maria (The DEPUTY SPEAKER)</name>
                 <name.id>10000</name.id>
@@ -2795,7 +2803,7 @@
     <debate>
       <debateinfo>
         <title>COMMITTEES</title>
-        <page.no>31</page.no>
+        <page.no>8297</page.no>
         <type>COMMITTEES</type>
       </debateinfo>
       <debate.text>
@@ -2808,7 +2816,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Joint Standing Committee on Treaties</title>
-          <page.no>31</page.no>
+          <page.no>8297</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2820,7 +2828,7 @@
         <subdebate.2>
           <subdebateinfo>
             <title>Report</title>
-            <page.no>31</page.no>
+            <page.no>8297</page.no>
           </subdebateinfo>
           <subdebate.text>
             <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -2838,7 +2846,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>31</page.no>
+                <page.no>8297</page.no>
                 <time.stamp />
                 <name role="metadata">Hart, Ross, MP</name>
                 <name.id>263070</name.id>
@@ -2854,7 +2862,7 @@
                   <span class="HPS-Normal">
                     <a href="263070" type="MemberSpeech">
                       <span class="HPS-MemberSpeech">Mr HART</span>
-                    </a> (<span class="HPS-Electorate">Bass</span>) (<span class="HPS-Time">10:45</span>):  I rise today to speak on the report of the Joint Standing Committee on Treaties entitled, <span style="font-style:italic;">Comprehensive and progressive agreement for Trans-Pacific Partnership</span>—the so-called TPP-11. I was fortunate to be appointed to this committee to participate in its hearings and deliberations with respect to the review of this treaty. It is vitally important that the treaty-making power of the Commonwealth is undertaken in the very best interests of the nation. The Joint Standing Committee on Treaties has the responsibility to review treaties and proposed treaty actions. It is particularly appropriate, in this case, that the Commonwealth's treaty action with respect to this treaty, broadly described as a free trade treaty, was the subject of public hearings, the receipt of evidence and submissions and an opportunity for public comment.</span>
+                    </a> (<span class="HPS-Electorate">Bass</span>) (<span class="HPS-Time">10:45</span>):  I rise today to speak on the report of the Joint Standing Committee on Treaties entitled Report 181: <span style="font-style:italic;">Comprehensive and </span><span style="font-style:italic;">Progressive Agreement </span><span style="font-style:italic;">for Trans-Pacific Partnership</span>—the so-called TPP-11. I was fortunate to be appointed to this committee to participate in its hearings and deliberations with respect to the review of this treaty. It is vitally important that the treaty-making power of the Commonwealth is undertaken in the very best interests of the nation. The Joint Standing Committee on Treaties has the responsibility to review treaties and proposed treaty actions. It is particularly appropriate, in this case, that the Commonwealth's treaty action with respect to this treaty, broadly described as a free trade treaty, was the subject of public hearings, the receipt of evidence and submissions and an opportunity for public comment.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                   <span class="HPS-Normal">It is important to note that the so-called free trade treaties are a misnomer. These treaties generally promote trade liberalisation, in goods and services and in some cases promote freer movement of individuals across international borders.</span>
@@ -2901,7 +2909,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>33</page.no>
+                <page.no>8299</page.no>
                 <time.stamp />
                 <name role="metadata">Templeman, Susan, MP</name>
                 <name.id>181810</name.id>
@@ -2917,7 +2925,7 @@
                   <span class="HPS-Normal">
                     <a href="181810" type="MemberSpeech">
                       <span class="HPS-MemberSpeech">Ms TEMPLEMAN</span>
-                    </a> (<span class="HPS-Electorate">Macquarie</span>) (<span class="HPS-Time">10:55</span>):  In rising to speak on the report and the additional comments that Labor has made about the report, I would particularly like to record my thanks to the member for Bass for his contribution to the process of interrogating this treaty. He has made an enormous contribution in the short time that I have worked with him on the Joint Standing Committee on Treaties, and I would like that commitment recorded in <span style="font-style:italic;">Hansard</span>. It's lovely to be able to speak directly after him.</span>
+                    </a> (<span class="HPS-Electorate">Macquarie</span>) (<span class="HPS-Time">10:55</span>):  In rising to speak on Report 181: <span style="font-style:italic;">Comprehensive and Progressive Agreement for Trans-Pacific Partnership</span> and the additional comments that Labor has made about the report, I would particularly like to record my thanks to the member for Bass for his contribution to the process of interrogating this treaty. He has made an enormous contribution in the short time that I have worked with him on the Joint Standing Committee on Treaties, and I would like that commitment recorded in <span style="font-style:italic;">Hansard</span>. It's lovely to be able to speak directly after him.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                   <span class="HPS-Normal">It is well established that Labor has a long history of support for free trade. The reforms of the Hawke and Keating governments included a really big reduction in tariffs. I was fortunate enough to be a journalist in that era and to report it and talk to people about the consequences that that might have. I don't think that anyone back then realised that it would be a key contributor to the record 26 years of continuous economic growth that Australia has experienced. Of course, when Labor was last in government three trade agreements were signed and negotiations were begun on seven others, including the former Trans-Pacific Partnership, the TPP. We obviously support high-quality free trade agreements, because trade does encourage greater economic activity and lead to the creation of jobs. Trade and open markets have lifted millions of people out of poverty globally and provided consumers with cheaper products. International trade has also lifted Australia's rate of economic growth and productivity.</span>
@@ -2958,7 +2966,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>34</page.no>
+                <page.no>8302</page.no>
                 <time.stamp />
                 <name role="metadata">Conroy, Pat, MP</name>
                 <name.id>249127</name.id>
@@ -2974,7 +2982,7 @@
                   <span class="HPS-Normal">
                     <a href="249127" type="MemberSpeech">
                       <span class="HPS-MemberSpeech">Mr CONROY</span>
-                    </a> (<span class="HPS-Electorate">Shortland</span>) (<span class="HPS-Time">11:05</span>):  I will begin by commending the contributions from the members for Macquarie and Bass both to this debate and on their work on the Joint Standing Committee on Treaties. Those two members, alongside the member for Fremantle and the other Labor members, have done a sterling job trying to hold the government to account to inject some transparency and objectivity into the debate around TPP-11. So I commend them for their fine work.</span>
+                    </a> (<span class="HPS-Electorate">Shortland</span>) (<span class="HPS-Time">11:05</span>):  I will begin by commending the contributions from the members for Macquarie and Bass both to this debate and in their work on the Joint Standing Committee on Treaties. Those two members, alongside the member for Fremantle and the other Labor members, have done a sterling job trying to hold the government to account to inject some transparency and objectivity into the debate around TPP-11. So I commend them for their fine work.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                   <span class="HPS-Normal">I am, on the surface—unless someone convinces me otherwise—firmly opposed to TPP-11. I'm firmly opposed to it, because it undermines Australia's sovereignty. It gives away too much of Australians' sovereign powers for very little in return. Unfortunately, this is the case history when it comes to this government and trade agreements. They sell away Australia's rights, Australia's freedoms and Australia's legislative authority in return for trade access. In some cases that may be justified, but my strong view is that, when it comes to the TPP-11, it most definitely is not. This trade agreement is not about trade. The name is a misnomer. It is deceptive. This is an agreement about deregulating Australia's economy and undermining the sovereignty of this parliament. That is why I am opposed to the TPP-11.</span>
@@ -3006,7 +3014,7 @@
           <speech>
             <talk.start>
               <talker>
-                <page.no>35</page.no>
+                <page.no>8303</page.no>
                 <time.stamp />
                 <name role="metadata">Sharkie, Rebekha, MP</name>
                 <name.id>265980</name.id>
@@ -3022,7 +3030,7 @@
                   <span class="HPS-Normal">
                     <a href="265980" type="MemberSpeech">
                       <span class="HPS-MemberSpeech">Ms SHARKIE</span>
-                    </a> (<span class="HPS-Electorate">Mayo</span>) (<span class="HPS-Time">11:12</span>):  I rise to briefly speak on the Joint Standing Committee on Treaties' report No. 181: <span style="font-style:italic;">Comprehensive and progressive agreement for Trans-Pacific Partnership</span>, more commonly known to the public as the TPP treaty.</span>
+                    </a> (<span class="HPS-Electorate">Mayo</span>) (<span class="HPS-Time">11:12</span>):  I rise to briefly speak on the Joint Standing Committee on Treaties Report 181: <span style="font-style:italic;">Comprehensive and Progressive Agreement for Trans-Pacific Partnership</span>, more commonly known to the public as the TPP treaty.</span>
                 </p>
                 <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                   <span class="HPS-Normal">I, like many Australians, am concerned with a number of aspects of this treaty, which the Australian government signed up to on 8 March 2018. I want to make it clear that I and Centre Alliance are not opponents of free trade, but we do recognise that there are legitimate public interests that need to be balanced against free trade. We all want to see a more prosperous and inclusive Australia, but free trade is a means to an end. It is not an end in itself.</span>
@@ -3051,7 +3059,7 @@
     <debate>
       <debateinfo>
         <title>ADJOURNMENT</title>
-        <page.no>36</page.no>
+        <page.no>8304</page.no>
         <type>ADJOURNMENT</type>
       </debateinfo>
       <debate.text>
@@ -3064,7 +3072,7 @@
       <speech>
         <talk.start>
           <talker>
-            <page.no>36</page.no>
+            <page.no>8304</page.no>
             <time.stamp />
             <name role="metadata">Laming, Andrew, MP</name>
             <name.id>E0H</name.id>
@@ -3091,7 +3099,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry</title>
-          <page.no>36</page.no>
+          <page.no>8304</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -3103,7 +3111,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>36</page.no>
+              <page.no>8304</page.no>
               <time.stamp />
               <name role="metadata">Conroy, Pat, MP</name>
               <name.id>249127</name.id>
@@ -3137,7 +3145,7 @@
                 <span class="HPS-Normal">To be truthful, this new conservative saviour of the Liberals, the member for Dickson, didn't want a bar of the royal commission. Odd as it may seem, he was on a unity ticket with the current Prime Minister in trying to stop it. It doesn't matter who leads this rabble that masquerades as a government. The member for Dickson has the same form as the Prime Minister denying justice for victims of the banking and financial services sector. Indeed, voting to give the banks a $17 billion tax cut at the same time as cutting penalty rates. The member for Dickson may not live in a harbour side mansion, but he certainly is as out of touch with the realities of life for everyday Australians as the current Prime Minister.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">Let there be no mistake, this government was dragged kicking and screaming to establish the royal commission into their mates at the big end of town. The Liberals and Nationals have stated on the record that it is regrettable that a royal commission is occurring. It's only because of the courage of my constituent Michelle, and tens of thousands like her who have suffered, that the royal commission has occurred. I pay tribute to her today, and wish her and her family, and all those brave victims fighting for justice, well.</span>
+                <span class="HPS-Normal">Let there be no mistake: this government was dragged kicking and screaming to establish the royal commission into its mates at the big end of town. The Liberals and Nationals have stated on the record that it is regrettable that a royal commission is occurring. It's only because of the courage of my constituent Michelle, and tens of thousands like her who have suffered, that the royal commission has occurred. I pay tribute to her today and wish her and her family, and all those brave victims fighting for justice, well.</span>
               </p>
             </body>
           </talk.text>
@@ -3145,20 +3153,20 @@
       </subdebate.1>
       <subdebate.1>
         <subdebateinfo>
-          <title>Health Care</title>
-          <page.no>37</page.no>
+          <title>Diabetes</title>
+          <page.no>8306</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
             <p class="HPS-SubDebate" style="direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-SubDebate">Health Care</span>
+              <span class="HPS-SubDebate">Diabetes</span>
             </p>
           </body>
         </subdebate.text>
         <speech>
           <talk.start>
             <talker>
-              <page.no>37</page.no>
+              <page.no>8306</page.no>
               <time.stamp />
               <name role="metadata">Broad, Andrew, MP</name>
               <name.id>30379</name.id>
@@ -3187,7 +3195,7 @@
                 <span class="HPS-Normal">
                   <a href="30379" type="MemberContinuation">
                     <span class="HPS-MemberContinuation">Mr BROAD:</span>
-                  </a>  Bridgewater is now in the electorate of Mallee, which I've got to say has got the best vanilla slice in Australia. Blair said to me, 'Look at this, Andrew, I've pricked my finger 7,000 times testing for type 1 diabetes. If I could have a continuous glucose monitor—they're a little patch that goes in here that connects via bluetooth to your phone—I would ultimately not have to do that'. It would make management of type 1 diabetes better, particularly for rural based people, because they can be monitored externally. It would also give comfort to children, because they can go to school and mum doesn't have to check on them so much. She can look remotely, and they can go and play with their mates.</span>
+                  </a>  Bridgewater is now in the electorate of Mallee, which I've got to say has got the best vanilla slice in Australia. Blair said to me: 'Look at this, Andrew, I've pricked my finger 7,000 times testing for type 1 diabetes. If I could have a continuous glucose monitor—they're a little patch that goes in here that connects via bluetooth to your phone—I would ultimately not have to do that.' It would make management of type 1 diabetes better, particularly for rural based people, because they can be monitored externally. It would also give comfort to children, because they can go to school and mum doesn't have to check on them so much. She can look remotely, and they can go and play with their mates.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                 <span class="HPS-Normal">Anyway, we took that idea to the health minister. We got a no. We then took it to the health minister again. We got a no. The health minister at the time was Sussan Ley, the member for Farrer. But eventually we got a yes and now every child in Australia under 21 years of age gets a continuous glucose monitor if they've got type 1 diabetes—$54 million. This is really what being in government means, and what good government can deliver.</span>
@@ -3196,7 +3204,7 @@
                 <span class="HPS-Normal">I would have liked to have seen some more downward pressure on the manufacturers of these products. I think that, if the Australian government is subsidising these products nationwide, it would also stand to reason that the price of these products would go down, which would help people over 21 years of age. I've got to say to the manufacturers: 'You've got a pretty good deal out of the federal government. You're making a lot of money out of us. I want you to make these products cheaper so they're available for people over the age of 21 years.'</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">There is a point when you develop a technology where you get a benefit from that technology. But, I think there is a bit of profit taking, frankly. When I was advocating for this, I would bring all of these companies in. I would say, 'Tell me about your continuous glucose monitor. Tell me about your product that you have available'. They'd tell me about it and everything. I'd say, 'Can I get one for 12 months and trial it with a family?' They weren't very generous. They didn't want to do that.</span>
+                <span class="HPS-Normal">There is a point when you develop a technology where you get a benefit from that technology. But, I think there is a bit of profit taking, frankly. When I was advocating for this, I would bring all of these companies in. I would say: 'Tell me about your continuous glucose monitor. Tell me about your product that you have available.' They'd tell me about it and everything. I'd say, 'Can I get one for 12 months and trial it with a family?' They weren't very generous. They didn't want to do that.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
                 <span class="HPS-Normal">One thing I want to say is that we are watching you manufacturers of these products. You are doing very well for the children of Australia—we are subsidising you to the tune of $54 million—but I want to see the price come down so it is cheaper for adults, because it is an expense. They're saying to us that we should subsidise adults. Maybe there is merit in that, but I want to see some downward pressure on price.</span>
@@ -3212,7 +3220,7 @@
           <continue>
             <talk.start>
               <talker>
-                <page.no>37</page.no>
+                <page.no>8306</page.no>
                 <time.stamp />
                 <name role="metadata">Broad, Andrew, MP</name>
                 <name.id>30379</name.id>
@@ -3229,20 +3237,20 @@
       </subdebate.1>
       <subdebate.1>
         <subdebateinfo>
-          <title>Petition: Breast Cancer Testing</title>
-          <page.no>38</page.no>
+          <title>Petition: Breast Cancer</title>
+          <page.no>8307</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
             <p class="HPS-SubDebate" style="direction:ltr;unicode-bidi:normal;">
-              <span class="HPS-SubDebate">Petition: Breast Cancer Testing</span>
+              <span class="HPS-SubDebate">Petition: Breast Cancer</span>
             </p>
           </body>
         </subdebate.text>
         <speech>
           <talk.start>
             <talker>
-              <page.no>38</page.no>
+              <page.no>8307</page.no>
               <time.stamp />
               <name role="metadata">Chesters, Lisa, MP</name>
               <name.id>249710</name.id>
@@ -3289,7 +3297,7 @@
           <interjection>
             <talk.start>
               <talker>
-                <page.no>39</page.no>
+                <page.no>8308</page.no>
                 <time.stamp />
                 <name role="metadata">Gee, Andrew (The DEPUTY SPEAKER)</name>
                 <name.id>10000</name.id>
@@ -3307,7 +3315,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Banks Electorate</title>
-          <page.no>39</page.no>
+          <page.no>8308</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -3319,7 +3327,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>39</page.no>
+              <page.no>8308</page.no>
               <time.stamp />
               <name role="metadata">Coleman, David, MP</name>
               <name.id>241067</name.id>
@@ -3359,7 +3367,7 @@
       <subdebate.1>
         <subdebateinfo>
           <title>Aged Care</title>
-          <page.no>39</page.no>
+          <page.no>8309</page.no>
         </subdebateinfo>
         <subdebate.text>
           <body background="" style="" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:WX="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
@@ -3371,7 +3379,7 @@
         <speech>
           <talk.start>
             <talker>
-              <page.no>39</page.no>
+              <page.no>8309</page.no>
               <time.stamp />
               <name role="metadata">Claydon, Sharon, MP</name>
               <name.id>248181</name.id>
@@ -3393,19 +3401,7 @@
                 <span class="HPS-Normal">The minister has finally released the long-belated data from the first quarter of this year, the January to March quarter, with regard to the in-home-care packages. Of course, its release was three months overdue. I don't know if the government even made any secret of hiding the fact that it would be waiting until after the by-elections to release this data, knowing full well that the situation in aged care was getting worse. Those by-elections passed and, as we all now know, all of those Labor members were returned to parliament. Indeed, the state of aged care has declined again. There are now 108,000 older Australians waiting for an in-home-care package in order to remain living in their homes with their families and connected to their communities and those local networks that are so important to maintaining good health and wellbeing for older Australians.</span>
               </p>
               <p class="HPS-Normal" style="direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">
-                  <a href="261393" type="OfficeInterjecting">
-                    <span class="HPS-OfficeInterjecting">The DEPUTY SPEAKER </span>
-                  </a>
-                  <span class="HPS-GeneralBold">(</span>
-                  <span class="HPS-OfficeInterjecting">Mr Gee</span>
-                  <span class="HPS-GeneralBold">):</span>  I interrupt the member for Newcastle there. I've just had my attention drawn to the fact that we don't have a quorum in the Federation Chamber at the moment, so the chamber stands suspended until the quorum is restored.</span>
-              </p>
-              <p class="HPS-Normal" style="text-align:center;direction:ltr;unicode-bidi:normal;">
-                <span class="HPS-Normal">
-                  <span style="font-weight:bold;">Sitti</span>
-                  <span style="font-weight:bold;">ng suspended from 11:39 to 11:40</span>
-                </span>
+                <span class="HPS-Normal">Debate interrupted.</span>
               </p>
               <p class="HPS-Normal" style="text-align:center;direction:ltr;unicode-bidi:normal;">
                 <span class="HPS-Normal">
@@ -3419,22 +3415,6 @@
               </p>
             </body>
           </talk.text>
-          <interjection>
-            <talk.start>
-              <talker>
-                <page.no>40</page.no>
-                <time.stamp />
-                <name role="metadata">Gee, Andrew (The DEPUTY SPEAKER)</name>
-                <name.id>10000</name.id>
-                <electorate>Calare</electorate>
-                <party>Nats</party>
-                <in.gov />
-                <first.speech />
-              </talker>
-            </talk.start>
-            <talk.text>
-            </talk.text>
-          </interjection>
         </speech>
       </subdebate.1>
     </debate>

@@ -1,7 +1,8 @@
 import scrapy
 import re
-import urllib
+import urllib.request
 from bs4 import BeautifulSoup
+import ssl
 
 class QuotesSpider(scrapy.Spider):
     name = 'hansard'
@@ -11,11 +12,17 @@ class QuotesSpider(scrapy.Spider):
 
     
     def parse(self,response):
+        ssl._create_default_https_context = ssl._create_unverified_context#don't bother with certificates
         for i in response.css('ul.search-filter-results').css('.action > a::attr(href)'):
             new_url = i.extract()
-            if re.match('^.*xml$',new_url):
+            with open('log.txt','a') as f:
+                f.write(new_url+ '\n')
+            if re.search('xml$',new_url):
                 if new_url not in self.found_urls:
+                    with open('url.txt','w') as f:
+                        f.write(new_url)
                     data = urllib.request.urlopen(new_url).read().decode('utf-8')
+                    print('\a')
                     parsed_data = BeautifulSoup(data,'xml')
                     chamber = BeautifulSoup(data,'xml').find('chamber').get_text()
                     if chamber=='House of Reps':
@@ -23,7 +30,11 @@ class QuotesSpider(scrapy.Spider):
                     filename = './data/'+parsed_data.find('date').contents[0] +'-' + chamber + '.xml'
                     with open(filename,'w+') as f:
                         f.write(data)
+                        print('\a') 
+                        print(filename)
                     self.found_urls.add(new_url)
         next_page_url = response.css('.results-pagination').css('ul').css('li.next > a::attr(href)').extract_first()
+        with open('log.txt','a') as f:
+            f.write('FOund next page url')
         next_page_url = response.urljoin(next_page_url)
         yield scrapy.Request(url = next_page_url,callback = self.parse)
