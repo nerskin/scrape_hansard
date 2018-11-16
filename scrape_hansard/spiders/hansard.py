@@ -6,8 +6,8 @@ import ssl
 
 class QuotesSpider(scrapy.Spider):
     name = 'hansard'
-    start_urls = ['https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?__VIEWSTATEGENERATOR=20B6B7A5&ind=0&st=1&sr=0&q=&hto=1&expand=False&drvH=0&drt=2&pnu=45&pnuH=45&f=30%2F08%2F2016&to=18%2F08%2F2018&pi=0&pv=&chi=0&coi=0&ps=100','https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?__VIEWSTATEGENERATOR=20B6B7A5&ind=0&st=1&sr=0&q=&hto=1&expand=False&drvH=0&drt=2&pnu=44&pnuH=44&f=12%2F11%2F2013&to=29%2F08%2F2016&pi=0&pv=&chi=0&coi=0&ps=100']
-
+    start_urls = ['https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?__VIEWSTATEGENERATOR=20B6B7A5&ind=0&st=1&sr=0&q=&hto=1&expand=False&drvH=0&pnuH=0&f=01%2F01%2F2000&to=dd%2Fmm%2Fyyyy&pi=0&pv=&chi=1&ps=100',
+                  'https://www.aph.gov.au/Parliamentary_Business/Hansard/Search?__VIEWSTATEGENERATOR=20B6B7A5&ind=0&st=1&sr=0&q=&hto=1&expand=False&drvH=0&pnuH=0&f=2000%2F01%2F01&to=&pi=0&pv=&chi=2&ps=10']
     found_urls = set()
 
     
